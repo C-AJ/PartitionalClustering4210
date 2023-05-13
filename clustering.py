@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Austin Celestino
 # FILENAME: clustering.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Does clustering on a dataset
 # FOR: CS 4210- Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 3 hours
 #-----------------------------------------------------------*/
 
 #importing some Python libraries
